@@ -3,7 +3,9 @@
 Homebrew casks for my macOS apps.
 
 ```sh
-brew install --cask cbrassel/tap/rosview
+brew tap cbrassel/tap
+brew trust cbrassel/tap   # Homebrew 7 and later
+brew install --cask rosview
 ```
 
 | Cask | Description |
