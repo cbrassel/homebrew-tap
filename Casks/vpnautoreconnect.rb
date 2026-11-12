@@ -1,6 +1,6 @@
 cask "vpnautoreconnect" do
-  version "1.2"
-  sha256 "0559d26283c883ea13ad9389dbff9bf9204d3c68d3cdb5a1e288a01cc709faac"
+  version "1.3"
+  sha256 "fc347e8e9a05d6af8f6115d0153071f71599ff19604fa40be51e3da58d38ae01"
 
   url "https://github.com/cbrassel/vpnautoreconnect-releases/releases/download/v#{version}/VPNAutoReconnect-#{version}.zip"
   name "VPN Auto Reconnect"
